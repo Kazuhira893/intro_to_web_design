@@ -2,13 +2,13 @@
 /* CSS Document */
 
 a {
-	font-size : 500px;
+	font-size : 20px;
 
 }
 
 body {
 	
-background-color: aqua;
+background-image: url("../img/dark_souls__iron_tarkus_vs_iron_golem_by_menaslg-d78wucy[1].png")
 	
 	
 	
@@ -16,7 +16,7 @@ background-color: aqua;
 
 img{
 	
-	width: 80%;
+	width: 40%;
 	height: 70%;
 	
 	

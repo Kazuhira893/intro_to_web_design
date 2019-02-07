@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+	font-size : 200px;
+	
+
+}
+
+body {
+	
+background-color: #547EF2;
+	
+	font-family: 'PT Serif', serif;
+	
+	
+}
+
+h1{
+	
+	color: #616161;
+	
+	
+}
+/* values we can use in css )generally)
+px = pixels
+% = percentages
+em =m ems
+
+
+
+
+*/
+
+
+
+
+/* <- is used to make notes and -> is used to end them */
+
+
+img{
+	
+	width: 80%;
+	height: 70%;
+	
+	
+	
+	
+}
+
+div{
+margin: 50px auto;
+	
+	width: 600px;
+}

@@ -1,0 +1,94 @@
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/* Position Options
+static - default position (goes where it goes)
+relative - positions relatice to where it falls on the page
+absolute - postitions something to in relation to the window
+fixed
+*/
+
+
+div{
+	
+width: 200px;	
+	height: 200px;
+	background-color: black;
+	
+	
+	
+	
+}
+.relative{
+	
+	background-color: red;
+		position: relative;
+	top: 200px;
+	left: 200px;
+	
+	
+}
+
+.absolute{
+	background-color: aqua;
+	position: absolute; 
+top: 4000px;
+	left: 400px;
+	
+	
+	
+	
+	
+}
+
+.fixed{
+	
+	background-color: firebrick;
+	position: fixed;
+	top: 200px;
+	left:200px;
+	
+	
+	
+}
+
+/* Exercise 8 CSS*/
+
+.left-circle, .right-circle .heart{
+	
+	background-color:#000000;
+	position: absolute;
+	
+	
+}
+
+.left-circle{
+	background-color: fuchsia;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	top: 251;
+	left: 370;
+	
+	
+}
+
+.right-circle{
+	
+	background-color: fuchsia;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	top: 251;
+	left: 370;
+	
+	
+}
+
+

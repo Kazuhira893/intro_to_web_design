@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	height: 100vh;
+	background: 
+		linear-gradient(90deg, 
+			  #fff , transparent 0), 
+		linear-gradient(90deg, 
+			  #36599d 50%, transparent 0), 
+		linear-gradient(90deg, 
+			  #643140 50%, #0a226a 0);
+	background-size: 
+		.25*$size, .5*$size, $size;
+}

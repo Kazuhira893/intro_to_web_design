@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	
+	background-color: #E3E3E3;
+	margin: 0;
+	padding: 0;
+	
+}
+
+div{
+	position: relative;
+	width: 100px;
+	height: 100px;
+	
+background-color: #FF79E1;
+	float: left;
+	margin: -10px;
+	opacity: 0.8;
+	filter: alpha(opacity=50);
+	border-radius: 60%;
+		
+	
+	
+}
+.red{
+	background-color: red;
+	border-radius: 20%;
+	
+	
+	
+	
+}
+.green{
+	background-color:#FF79E1;
+	border-radius: 30%;
+	outline-color: #FF79E1;
+	outline-width: thick;
+
+}
+
+#white{
+	
+	background-color: ##FF79E1;
+}
+
+#purple{
+	
+	
+	background-color: #FF79E1;
+	
+	
+	
+}
+
+#yellow{
+	
+	background-color: #FF79E1;
+	
+}
+
+#blue{
+	background-color:#FF79E1;
+	
+	
+	
+}
+
+#orange{
+	
+	background-color: #FF79E1;
+	
+}
+
+
+

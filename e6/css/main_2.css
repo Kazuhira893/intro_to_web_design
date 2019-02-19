@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	
+	background-color: #E3E3E3;
+	margin: 0;
+	padding: 0;
+	
+}
+
+div{
+	position: relative;
+	width: 100px;
+	height: 100px;
+	
+background-color: black;
+	float: left;
+	margin: -10px;
+	opacity: 0.8;
+	filter: alpha(opacity=50);
+	border-radius: 60%;
+		
+	
+	
+}
+.red{
+	background-color: red;
+	border-radius: 20%;
+	
+	
+	
+	
+}
+.green{
+	background-color:#00FF0A;
+	border-radius: 30%;
+	outline-color: #DA0D10;
+	outline-width: thick;
+
+}
+
+#white{
+	
+	background-color: #818181;
+}
+
+#purple{
+	
+	
+	background-color: purple;
+	
+	
+	
+}
+
+#yellow{
+	
+	background-color: yellow;
+	
+}
+
+#blue{
+	background-color: blue;
+	
+	
+	
+}
+
+#orange{
+	
+	background-color: orange;
+	
+}
+
+
+

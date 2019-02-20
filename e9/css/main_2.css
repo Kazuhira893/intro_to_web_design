@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	margin: 0;
+	
+	
+}
+
+
+div{
+	
+	
+	
+	
+}
+
+.alley{
+	
+	width: 100px;
+	height: 410px;
+	background-color: red;
+	float: left;
+	margin-left: 90px;
+}
+
+.alley2{
+	
+	width: 100px;
+	height: 410px;
+	background-color: red;
+	float: left;
+	margin-left: 420px;
+	
+	
+	
+}
+
+.court1{
+	
+	width: 400px;
+	height: 200px;
+	background-color: red;
+	float: middle;
+	margin-left: 200px;
+	margin-top: 200px;
+	
+	
+}
+
+.mini1{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: middle;
+	margin-left: 200px;
+	margin-top: 10px;
+	
+	
+	
+}
+
+.mini2{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: middle;
+	margin-left: 200px;
+	margin-top: 10px;
+}

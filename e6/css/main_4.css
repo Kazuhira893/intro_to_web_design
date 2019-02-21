@@ -2,12 +2,17 @@
 /* CSS Document */
 
 body {
-  background: 
-  linear-gradient(105deg, black 55%, transparent 45%) -50px 0,;
-   linear-gradient(45deg, transparent 75%,  75%),
-  linear-gradient(-45deg, transparent 75%,  75%);
+ margin: 0;
   
  	
   background-size: 10000px;
   background-color: #232323;
+}
+
+.body_image{
+	
+	linear-gradient(105deg, black 55%, transparent 45%) -50px 0,;
+   linear-gradient(45deg, transparent 75%,  75%),
+  linear-gradient(-45deg, transparent 75%,  75%);
+	
 }

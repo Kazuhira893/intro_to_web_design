@@ -2,15 +2,39 @@
 /* CSS Document */
 body{
 	
-	margin: 0;
-	background-color: #6D6D6D
+	margin: 100px;
+	
 }
+	
 
 div{
 	
+	
+	
+	
+	
+
+
+width: 100px;
+height: 100px;
+	float: left;
+}
+.capsule{
+	
+	width: 800px;
+	
+}
+.red{
+	background-color: red;
 	border-radius: 100%;
+	float: left;
+	
+}
+
+.black{
 	
 	
-	
+	background-color: black;
+	border-radius: 20%;
 	
 }

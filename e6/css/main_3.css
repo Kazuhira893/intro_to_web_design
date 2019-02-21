@@ -1,16 +1,42 @@
 @charset "utf-8";
 /* CSS Document */
 
+body{
 
-body {
-	height: 100vh;
-	background: 
-		linear-gradient(90deg, 
-			  #fff , transparent 0), 
-		linear-gradient(90deg, 
-			  #36599d 50%, transparent 0), 
-		linear-gradient(90deg, 
-			  #643140 50%, #0a226a 0);
-	background-size: 
-		.25*$size, .5*$size, $size;
+	margin:0;
+	
+	
+}
+
+
+div{
+	
+width: 100px;
+	height: 100px;
+	float: left;
+filter: alpha(opacity=50);
+	
+	
+}
+
+.capsule{
+	
+width: 800px;	
+	
+	
+	
+}
+.red{
+	
+	background-color: #00FF10;
+	border-radius: 30%;
+	opacity: 20%;
+	
+}
+
+.black{
+	
+	
+	background-color:#8B00FD;
+	margin: -20px;
 }

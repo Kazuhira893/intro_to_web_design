@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+margin:0;	
+	
+}
+
+div{
+	
+	width: 100px;
+	height: 100px;
+	
+}
+
+.capsule{
+	
+width: auto;	
+	
+
+	
+	
+	
+}
+
+
+.star1{
+
+	margin: 20px;
+	position: relative;
+	background-color:#00FF69;
+	width: 100px;
+	height: 100px;
+	transform: rotate(45deg);
+	float: left;
+	filter: alpha(opacity=50);
+}

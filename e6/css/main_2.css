@@ -6,6 +6,7 @@ body{
 	margin: 0;
 	padding: 0;
 	
+	
 }
 
 div{
@@ -19,15 +20,16 @@ background-color: black;
 	opacity: 0.8;
 	filter: alpha(opacity=50);
 	border-radius: 60%;
+	
 		
 	
 	
 }
 .red{
 	background-color: red;
-	border-radius: 20%;
-	
-	
+	border-radius: 0%;
+	transform: rotate(45deg);
+	transform:skewY(20deg)
 	
 	
 }
@@ -36,20 +38,21 @@ background-color: black;
 	border-radius: 30%;
 	outline-color: #DA0D10;
 	outline-width: thick;
-
+	transform:skewX(20deg);
 }
 
-#white{
+.white{
 	
 	background-color: #818181;
 }
 
-#purple{
+.purple{
 	
 	
 	background-color: purple;
-	
-	
+	transform: skewX(-40deg);
+	border-radius: 30%;
+	outline-width: thick;
 	
 }
 

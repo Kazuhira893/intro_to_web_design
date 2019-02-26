@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	margin: 0;
+	float: middle;
+}
+
+div{
+	
+	
+	
+}
+.capsule{
+	
+	
+float:middle;	
+	
+	
+	
+	
+}
+
+.header{
+	width: 750px;
+	height: 150px;
+	background-color: red;
+	float: middle;
+	margin-left: 250px;
+}
+
+.textbox_1{
+	width: 600px;
+	height: 400px;
+	background-color: red;
+	margin-top: 110px;
+	margin-left: 250px;
+	
+	
+}
+
+.minitext_1{
+	
+	background-color:red;
+	height: 200px;
+	width: 135px;
+	margin-left: 865px;
+	margin-top: -400px;
+	
+	
+}
+
+
+	
+
+.footer{
+	width: 600px;
+	height: 50px;
+	background-color: red;
+	float: middle;
+	margin-left: 250px;
+	margin-top: 215px;
+	
+}

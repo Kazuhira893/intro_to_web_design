@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	margin: 0;
+	float: middle;
+}
+
+div{
+	
+	
+	
+}
+.capsule{
+	
+	
+float:middle;	
+	
+	
+	
+	
+}
+
+.header{
+	width: 750px;
+	height: 75px;
+	background-color: red;
+	float: middle;
+	margin-left: 250px;
+}
+
+.mini_header{
+	width: 750px;
+	height: 20px;
+	background-color: red;
+	margin-top: 10px;
+	margin-left: 250px;
+	
+	
+}
+
+.column1{
+	
+	background-color:red;
+	height: 505px;
+	width: 250px;
+	margin-left: 250px;
+	margin-top: 10px;
+	
+	
+}
+
+.column2{
+	
+	background-color:red;
+	height: 505px;
+	width: 250px;
+	margin-left: 505px;
+	margin-top: -505px;
+	
+}
+
+.column3{
+	background-color:red;
+	height: 505px;
+	width: 240px;
+	margin-left: 760px;
+	margin-top: -505px;
+	
+	
+	
+}
+
+.footer{
+	width: 750px;
+	height: 75px;
+	background-color: red;
+	float: middle;
+	margin-left: 250px;
+	margin-top: 10px;
+	
+}

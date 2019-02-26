@@ -8,7 +8,7 @@
 
 h1{
 	text-align: center;
-	font-size: 70px;
+	font-size: 100px;
 	
 	
 }
@@ -19,10 +19,18 @@ h2{
 	
 }
 
-p{
-	text-align: center;
+h3{
 	
-	padding-left: 350px;
-	padding-right: 350px;
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+p{
+	text-align: left;
+	
+	padding-left: 100px;
+	padding-right: 100px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
 	
 }

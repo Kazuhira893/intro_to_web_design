@@ -17,6 +17,7 @@ h2{
 	
 	text-align: center;
 	
+	font-size: 50px;
 }
 
 h3{
@@ -33,4 +34,11 @@ p{
 	padding-right: 100px;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
 	
+}
+
+.a:hover{
+	
+color: greenyellow;
+
+
 }

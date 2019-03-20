@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	
+	
+	
+	
+	box-sizing: boarder-box;
+}
+
+body{
+	
+	margin: 0;
+	
+ font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; 
+	font-size: 107px;
+	transform:rotate(270deg);
+	padding-top: 600px;
+	padding-left: 100px;
+	width: 10px;
+	height: 700px;
+}
+
+h2{
+	
+	font-size: 62px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-top: -100px;
+	margin-left: 200px;
+	padding-bottom: 200px;
+	width: 400px;
+	height: 100px;
+	transform:rotate(270deg)
+}
+
+p{
+margin-top: 100px;	
+font-size: 18px;
+
+}
+
+.capsule{
+	
+	margin-left:600px;
+	height: 200px;
+	width: 500px;
+}
+
+.capsule3{
+	
+	width: 400px;
+	margin-left:600px;
+	
+}
+
+.capsule2{
+	
+	width: 100px;
+	height: 100px;
+}
+
+.capsule4{
+	width:100px;
+	height:100px;
+	margin-top:250px;
+	
+	
+}

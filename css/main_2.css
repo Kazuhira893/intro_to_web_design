@@ -1,0 +1,45 @@
+ @charset "utf-8";
+/* CSS Document */
+.capsule{
+	
+	width: 500px;
+	height: 15px;
+	
+	
+}
+
+
+
+
+
+.capsule2{
+	
+	height: 200px;
+	width:1250px;
+	float-right: 300px;
+	
+	
+}
+p{
+	
+	
+	margin-left: 1000px;
+	float-left: 300px;
+	margin-bottom:200px;
+}
+h1{
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 150px;
+}
+
+h2{
+	
+	font-size: 80px;
+	
+}
+
+h3{
+	
+	
+	font-size: 50px;
+}

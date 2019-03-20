@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	
+	margin: 0
+}
+
+
+h1{
+	
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	padding-top: 100px;
+	padding-left: 550px;
+	font-size:100px;
+}
+
+h2{
+	
+	padding-left: 600px;
+	font-size: 40px;
+	padding-bottom: 10px;
+	
+}
+
+h3{
+	
+	padding-left: 700px;
+	font-size: 30px;
+	
+	
+}
+
+.capsule{
+	
+	width: 400px;
+	padding-left: 550px;
+	padding-top: 100px;
+	
+}
+
+.line{
+	
+	
+	height: 5px;
+	width: 400px;
+	margin-left: 550px;
+	background-color: black;
+	
+}

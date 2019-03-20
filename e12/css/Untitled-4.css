@@ -1,3 +1,72 @@
-@charset "utf-8";
+ @charset "utf-8";
 /* CSS Document */
+.capsule{
+	
+	width: 600px;
+	height: 15px;
 
+	
+}
+
+
+
+.capsule2{
+width: 500px;
+	padding-left: 600px;
+	
+	
+}
+
+
+
+p{
+	
+	
+	margin-left: 0px;
+	float-right: 100px;
+	margin-bottom:0px;
+	padding-top: 50px;
+	margin-right: 00px;
+}
+h1{
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 150px;
+}
+
+h2{
+	
+	font-size: 80px;
+	font-family: "berkshire-swash";
+	padding-left: 140px;
+	
+}
+
+
+div1{
+	margin-top:100px;
+	width: 1000px;
+	height: 10px;
+	
+	
+}
+
+div2{
+	
+	
+	
+}
+
+p1{
+	padding-left: 100px;
+	
+	
+	
+	
+}
+
+.capsule2{
+	
+	padding-top: 500px;
+	
+	
+}

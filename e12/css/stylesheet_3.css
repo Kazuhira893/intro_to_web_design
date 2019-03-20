@@ -1,23 +1,45 @@
-@charset "utf-8";
+ @charset "utf-8";
 /* CSS Document */
-
-h1{
+.capsule{
 	
-	font-size: 20px;
+	width: 500px;
+	height: 15px;
+	background-color: red;
 	
-	margin-right: 200px;
 }
+
+
+
+
 
 .capsule2{
 	
+	height: 200px;
+	width:1250px;
+	float-right: 300px;
 	
-	width:200px;
-	height:200px;
+	
+}
+p{
+	
+	
+	margin-left: 1000px;
+	float-left: 300px;
+	margin-bottom:200px;
+}
+h1{
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 150px;
+}
+
+h2{
+	
+	font-size: 80px;
 	
 }
 
-p{
+h3{
 	
-width: 200px; 	
 	
+	font-size: 50px;
 }

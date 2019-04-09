@@ -9,14 +9,14 @@ body{
 
 #drugs{
 	
- 	
+ 	padding-left: 280px;
 	
 }
 
 h1{
 	font-family: "Overseer italic";
 	
-	font-size: 72px;
+	font-size: 60px;
 }
 
 .capsule_main{
@@ -41,4 +41,11 @@ p{
 	
 	color:#FCDD00;
 	font-family: "Overseer";
+	font-size: 20px
+}
+
+#title{
+	
+	
+	padding-left: 180px;
 }

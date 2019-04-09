@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#7FA4D0;
+	
+	
+}
+
+#drugs{
+	
+ 	
+	
+}
+
+h1{
+	font-family: "Overseer italic";
+	
+	font-size: 72px;
+}
+
+.capsule_main{
+	
+	padding-top: 100px;
+	
+	
+}
+
+@font-face {
+  font-family: "Overseer";
+  src: url("../assets_fonts/fonts/Overseer.otf") format("truetype");
+	
+}
+
+@font-face {
+  font-family: "Overseer italic";
+  src: url("../assets_fonts/fonts/Overseer Italic.otf") format("truetype");
+}
+
+p{
+	
+	color:#FCDD00;
+	font-family: "Overseer";
+}

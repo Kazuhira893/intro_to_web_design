@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.full {
+	
+	width: 100vw;
+	height:100vw;
+	
+}
+
+#list-name{
+	
+	
+	background-color: blue;
+}
+
+#song5{
+	
+	background-color: red;
+	background-repeat:no-repeat;
+background-position: center center;
+	
+}
+
+#song3{
+	
+	background-image: url("../assets/img/iba1oyiAMAjG6F[1].png");
+	
+background-repeat:no-repeat;
+background-position: center center;
+}
+h1{
+	font-size: 5em;
+	margin: 0;
+	letter-spacing: .1em;
+	text-align: center;
+	font-family: sans-serif;
+	padding: 40vh, 0, 0,;
+	transition: all 2s ease;
+	color: green;
+	
+
+}
+
+#song5{
+	
+	
+	background-image: url(../assets/img/we_happy_few_logo[1].jpg);
+}
+
+#song4{
+	
+	background-image: url("../assets/img/killer-instinct-season-2[1].jpg");
+	background-repeat:no-repeat;
+background-position: center center;
+}
+
+#song2{
+	
+	background-image: url("../assets/img/subnautica-header-image[1].jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+		
+}
+
+#song1{
+	
+	background-image: url("../assets/img/The-Witcher-3-Wild-Hunt-1[1].jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}

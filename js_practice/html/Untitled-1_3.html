@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>jQuery Demo</title>
+	<link rel="stylesheet" href="../css/main.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="../js/main.js"></script>
+	<script type="text/javascript" src="sound-mouseover.js"></script>
+</head>
+
+<body>
+	<div class="capsule">
+	
+	<div id="list-name" class="full">
+	<h1>Top Five Favorite Songs From Games</h1>
+	</div>
+		<div id="song5" class="full">
+			
+			<h1 onMouseover="document.getElementById('LaLaLa').play();"
+			onMouseleave="document.getElementById('LaLaLa').stop();"	
+				
+				>La La La We Happy Few
+				
+			
+			
+			</h1>
+			
+		
+			
+			
+			</audio>
+			
+		</div>
+		
+		<div id="song4">
+		<h1 onMouseover="document.getElementById('yocheckthisout').play();"
+			onMouseleave="document.getElementById('yocheckthisout').stop();"	
+				
+				>Yo Check This Out Killer Instinct
+			<audio id="yocheckthisout" src="../assets/music/Killer Instinct OST-Yo Check This Out!.mp3" preload="auto">
+			
+			</audio>
+			</h1>
+		</div>
+	<audio>
+<source src="../assets/music/Killer Instinct OST-Yo Check This Out!.mp3">
+
+</audio>
+<div id="sounddiv"><bgsound id="sound"></div></div>
+</body>
+</html>

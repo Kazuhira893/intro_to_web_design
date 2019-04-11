@@ -1,48 +1,47 @@
 // JavaScript Document
-$(document).ready(function(){
-	 $('#listName').mouseenter(function()
+$(document).ready(function()
+{
+
+$('#title5').click(function()
       {
-        $('#listName').addClass('blue');
-        $('#listTitle').css('color', 'white');
+        $('#song5').toggleClass('open');
       });
-    $('#listName').mouseleave(function()
+    $('#yo').click(function()
       {
-        $('#listName').removeClass('blue');
-        $('#listTitle').css('color', 'black');
+        $('#song4').toggleClass('open');
+      });
+    $('#title3').click(function()
+      {
+        $('#song3').toggleClass('open');
+      });
+    $('#title2').click(function()
+      {
+        $('#song2').toggleClass('open');
+      });
+    $('#title1').click(function()
+      {
+        $('#song1').toggleClass('open');
       });
 
-            //Plays the file when the mouse is over the element
-            $("#song5").hover (function (){
+    $('#song5').click(function()
+      {
+        $('#title5').toggleClass('open');
+      });
+    $('#song4').click(function()
+      {
+        $('#song4').toggleClass('open');
+      });
+    $('#song3').click(function()
+      {
+        $('#song3').toggleClass('open');
+      });
+    $('#song2').click(function()
+      {
+        $('#song2').toggleClass('open');
+      });
+    $('#song1').click(function()
+      {
+        $('#song1').toggleClass('open');
+      });
+  });
 
-                $("#LaLaLa")[0].play();
-
-            });
-
-            //Pause the file when the mouse leaves the element
-             $("#song5").mouseleave (function (){
-
-                $("#LaLaLa")[0].pause();
-
-            });
-	
-		
-			//Plays the file when the mouse is over the element
-			$("#song5").hover (function(){
-				$("#yocheckthisout")
-				
-			}
-	
-	$('h1').css('color', 'green');
-
-	//$('h1').css('color', 'white');
-$('h1').click(function() {
-	$('h1').css('color', 'green');
-	
-	});
-	
-	$('#song5').togggleClass('black');
-	
-});
-
-	
-	$

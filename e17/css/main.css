@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 1000px;
+margin: 0;	
+	
+	background-image:url("../img/fate-grand-order-art-kazino-devushka-vzgliad-zal[1].jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	
+}
+
+
+#capsule1{
+	
+	
+	
+	margin-left: 365px;
+	margin-top: 200px;
+}
+
+#Card1{
+	
+	width: 130px;
+	background-color: red;
+	margin-bottom: -60px;
+}
+
+#Card2{
+	
+	margin-left: 210px;
+	margin-bottom: -60px;
+	width: 168px;
+	height: 0px;
+	background-color: red;
+}
+
+#Card3{
+	
+	
+	background-color: red;
+	width: 150px;
+	margin-left: 450px;
+	margin-top: 60px;
+}
+
+#confirmation{
+	
+	background-color:#747474;
+	width: 120px;
+	margin-left: 595px;
+	margin-top: 50px;
+}
+
+
+#card{
+	margin-top: 100px;
+	margin-right: 20px;
+	width: 150px;
+
+}
+
+#card2{
+	
+	
+	width: 150px;
+	margin-left: 45px;
+}
+
+#card3{
+	
+	width: 150px;
+	margin-left: 85px;
+}
+
+p{
+	
+	
+	margin-left: 200px;
+}
+
+h2{
+	
+	font-size: 30px;
+	background-color: red;
+
+}
+
+h1{
+	color:#8A28DB;
+	margin-left: 175px;
+	margin-bottom: 50px;
+	width: 250px;
+	background-color:#DF1EDF
+	
+}
+
+#win{
+	
+	display: none;
+	color:#29B5CB;
+	margin-left: 165px;
+	margin-bottom: 20px;
+	width: 280px;
+	background-color:#2C786D;
+	font-size: 30px;
+	
+}
+
+
+#loose{
+	color:#29B5CB;
+	margin-left: 155px;
+	margin-bottom: 20px;
+	width: 300px;
+	background-color:#2C786D;
+	font-size: 30px;
+	display: none;
+	
+}
+

@@ -45,3 +45,6 @@ $('#song1').click(function()
    
   });
 
+
+var x = document.getElementById("title5");
+var y = document.getElementById()

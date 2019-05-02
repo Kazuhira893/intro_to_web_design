@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	
+	margin: 0;
+	
+}
+
+.image{
+	
+	
+	background-image: url("../img/3099779fpbfner6zj[2].gif");
+	background-size: auto;
+		visibility: hidden;
+	height: 1200px;
+}
+
+#audio{
+	
+	display: none;
+	
+	
+	
+}
+
+h1{
+	
+	margin-left: 400px;
+font-family: comic	
+	
+}
